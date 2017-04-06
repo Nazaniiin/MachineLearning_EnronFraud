@@ -1,5 +1,28 @@
 #!/usr/bin/python
 
+"""
+Authoer: Nazanin Hajimirarab
+
+This code contains the main analysis done on the Enron dataset.
+
+I audit and clean the data, remove any observations or feature unnecessary to the analysis,
+and start applying my models on the dataset to choose the best one for predictive performance.
+
+I use Naive Bayes, Decision Tree and Logistic Regression as 3 classifiers to fit my trainig
+data. I use SelectKBest as a method for feature selection, and apply GridSearchCV to do
+the needed cross validation and pick parameters that best fit my model.
+
+I evaluate my model by calculating precision, recall and f1-score, and choose the algorithm
+that can give me the highest of these scores (all above 0.3)
+
+I finally run the model against the testing data using `test_classifier`. 
+
+The `tester.py` and `feature_format.py` files are needed in the same directory with this code.
+These python scripts are written by Udacity intrsuctors for easy validation of the nanodegree
+project. The script in this file is written by the author of this project.
+
+"""
+
 import sys
 import pickle
 import pandas as pd
