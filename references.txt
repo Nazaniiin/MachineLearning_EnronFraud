@@ -1,0 +1,11 @@
+https://www.quora.com/What-is-the-best-way-to-understand-the-terms-precision-and-recall
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://github.com/ryancheunggit/Udacity/blob/master/P5/poi_id.py
+https://github.com/kdivringi/Identifying-Fraud-from-Enron-Emails
+http://fch808.github.io/Identifying_Fraud_at_Enron.html
+http://tinystruggles.com/2014/03/24/classification-with-scikit-learn.html
+https://chrisalbon.com/
+https://discussions.udacity.com/t/cross-validation-the-difference-between-stratified-shufflesplit-and-kfold/35278/7
+https://discussions.udacity.com/t/gridsearchcv-and-testingtraining-data/36107/4
+https://discussions.udacity.com/t/what-are-the-testing-features-when-using-selectkbest/234832/6
+https://discussions.udacity.com/t/final-project-cross-validation-question/184379/9
